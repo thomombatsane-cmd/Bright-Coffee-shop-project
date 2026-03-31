@@ -1,0 +1,9 @@
+1. It was tricky to do but it was a lot of learning to be done as well.
+2. The case study was okay the recorded classes helped as well, i learnt as much as you might use chat GPT somethings we have not learned them yet.
+3. Data was analysed and found that the coffee shops performance is quite good but a loyalty program would do good for the loyal clients and growth and low performing programs.
+4. tools used: GitHub
+               Miro
+               Canva
+               Excel
+               Databricks
+               Powerpoint
